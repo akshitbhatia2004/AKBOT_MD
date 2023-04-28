@@ -7,12 +7,12 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
 global.email = 'sam@sec.live'
-global.github = 'https://github.com/prabathLK/PRABATH-MD'
+global.github = 'https://github.com/akshitbhatia2004'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '919971606684'
-global.devs = '94762280384';
-global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+919971606684
+global.devs = '9971606684';
+global.website = 'https://github.com/akshitbhatia/PRABATH-MD' //wa.me/+919971606684
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 module.exports = {
   botname: process.env.BOT_NAME || 'Akshit 𝐁𝐨𝐭',
