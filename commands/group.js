@@ -83,7 +83,7 @@ cmd({
 
             image: log0,
 
-            caption: `*Support:* https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM`,
+            caption: `*Support:* https://chat.whatsapp.com/HI5LmQDzcXGB5fMstKV70k`,
 
         });
 
